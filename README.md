@@ -2,7 +2,7 @@
 
 Este documento explica as regras implementadas no Squid Proxy para controle de acesso a sites específicos.
 
-## 📌 Regras Implementadas
+## Regras Implementadas
 
 ### 1. Bloqueio de Redes Sociais com Exceção
 
